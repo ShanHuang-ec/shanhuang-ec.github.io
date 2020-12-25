@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shan Huang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a PhD student in Economics."
+  bio    : "I'm a PhD student in Economics at **DIW Berlin** and **BSE Berlin**. I'm also affiliated with **University of Copenhagen**."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
