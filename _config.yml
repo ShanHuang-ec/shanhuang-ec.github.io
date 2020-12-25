@@ -64,10 +64,10 @@ author:
   location         : "Berlin, Germany"
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-envelope"
       url: "mailto:shuang@diw.de"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/ShanHuang_ec"
     - label: "DIW page"
       icon: "fas fa-fw fa-link"
