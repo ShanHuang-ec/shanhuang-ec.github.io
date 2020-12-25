@@ -61,6 +61,7 @@ author:
   name   : "Shan Huang"
   avatar : "/assets/images/Huang_france_250.jpg"
   bio    : "I'm a PhD student in Economics at **DIW Berlin** and **BSE Berlin**. I'm also affiliated with **University of Copenhagen**."
+  location         : "Berlin, Germany"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -73,16 +74,16 @@ author:
       url: "https://github.com/ShanHuang-ec"         
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#  links:
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
 
 defaults:
   # _posts
