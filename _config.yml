@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-envelope-square"
       url: "mailto:shuang@diw.de"
     - label: "Twitter"
-      icon: "fas fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ShanHuang_ec"
     - label: "DIW page"
       icon: "fas fa-fw fa-link"
