@@ -64,13 +64,13 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/ShanHuang_ec"
     - label: "DIW page"
       icon: "fas fa-fw fa-link"
-      url: "https://"      
+      url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.564116.en"   
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ShanHuang-ec"         
 
 footer:
   links:
