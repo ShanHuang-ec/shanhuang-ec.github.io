@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: "ShanHuang_ec"
-github_username: "shanhuang-ec"
+github_username: "ShanHuang-ec"
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shan Huang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a PhD student in Economics at **DIW Berlin** and **BSE Berlin**. I'm also affiliated with **University of Copenhagen**."
+  bio    : "I'm a PhD student in Economics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
