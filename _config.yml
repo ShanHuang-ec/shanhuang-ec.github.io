@@ -13,6 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+logo: "/assets/images/mastheadLogo.png"
+repository               : "ShanHuang-ec/shanhuang-ec.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+masthead_title           : "Shan Huang"
 title: "Shan Huang"
 email: shuang@diw.de
 description: >- # this means to ignore newlines until "baseurl:"
@@ -64,11 +67,8 @@ author:
   name   : "Shan Huang"
   avatar : "/assets/images/Huang_france_250.jpg"
   bio    : "I'm a PhD student in Economics at **DIW Berlin** and **BSE Berlin**. I'm also affiliated with **University of Copenhagen**."
-  #location: "Berlin, Germany"
+  location: "Berlin, Germany"
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:shuang@diw.de"
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/ShanHuang_ec"
@@ -78,6 +78,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ShanHuang-ec"         
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:shuang@diw.de"      
 
 footer:
 #  links:

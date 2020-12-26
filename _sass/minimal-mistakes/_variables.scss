@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 14 !default;
+$doc-font-size: 16 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -34,22 +34,23 @@ $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
-$type-size-1: 2em !default; // ~39.056px
-$type-size-2: 1.6em !default; // ~31.248px
-$type-size-3: 1.35em !default; // ~25.008px
-$type-size-4: 1.15em !default; // ~20px
-$type-size-5: 0.8em !default; // ~16px
-$type-size-6: 0.65em !default; // ~12px
-$type-size-7: 0.55em !default; // ~11px
-$type-size-8: 0.5em !default; // ~10px
+$type-size-1: 2.441em !default; // ~39.056px
+$type-size-2: 1.953em !default; // ~31.248px
+$type-size-3: 1.563em !default; // ~25.008px
+$type-size-4: 1.25em !default; // ~20px
+$type-size-5: 1em !default; // ~16px
+$type-size-6: 0.75em !default; // ~12px
+$type-size-7: 0.6875em !default; // ~11px
+$type-size-8: 0.625em !default; // ~10px
 
 /* headline scale */
-$h-size-1: 1.4em !default; // ~25.008px
-$h-size-2: 1.1em !default; // ~20px
-$h-size-3: 0.9em !default; // ~18px
-$h-size-4: 0.75em !default; // ~17px
-$h-size-5: 0.7em !default; // ~16.5px
-$h-size-6: 0.65em !default; // ~16px
+$h-size-1: 1.563em !default; // ~25.008px
+$h-size-2: 1.25em !default; // ~20px
+$h-size-3: 1.125em !default; // ~18px
+$h-size-4: 1.0625em !default; // ~17px
+$h-size-5: 1.03125em !default; // ~16.5px
+$h-size-6: 1em !default; // ~16px
+
 
 /*
    Colors
@@ -136,6 +137,20 @@ $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
 
+
+
+/* CUSTOM COLORS */
+$teal-color: #4e7f87;
+
+$link-color: mix($teal-color, $info-color, 20%) ;
+$link-color-hover: mix($teal-color, $link-color, 25%) ;
+$link-color-visited: mix(#fff, $link-color, 15%) ;
+$masthead-link-color: $primary-color ;
+$masthead-link-color-hover: mix($teal-color, $primary-color, 25%) ;
+$navicon-link-color-hover: mix($teal-color, $primary-color, 75%) ;
+
+
+
 /*
    Breakpoints
    ========================================================================== */
@@ -154,6 +169,10 @@ $max-width: $x-large !default;
 $right-sidebar-width-narrow: 200px !default;
 $right-sidebar-width: 300px !default;
 $right-sidebar-width-wide: 400px !default;
+
+/* CUSTOM GRID */
+$right-sidebar-width-narrow: 150px;
+$right-sidebar-width: 200px;
 
 /*
    Other
