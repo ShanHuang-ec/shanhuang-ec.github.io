@@ -55,6 +55,7 @@ $h-size-6: 1em !default; // ~16px
 /*
    Colors
    ========================================================================== */
+$teal-color: #7f9faa; 
 
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 50%) !default;
@@ -62,6 +63,7 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
+/* Colors */
 $background-color: #fff !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
@@ -71,13 +73,16 @@ $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #6f777d !default;
+$primary-color: #6f777d !default; 
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #3b9cba !default;
-$focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
+/* $info-color: #3b9cba !default; 
+   $focus-color: $primary-color !default;
+   $active-color: mix(#fff, $primary-color, 80%) !default; */
+$info-color: $teal-color !default;
+$focus-color: $teal-color !default;
+$active-color: mix(#fff, $teal-color, 80%) !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -116,8 +121,8 @@ $link-color: mix(#000, $info-color, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+$masthead-link-color-hover: mix(#000, $info-color, 25%) !default;
+$navicon-link-color-hover: mix(#fff, $info-color, 75%) !default;
 
 /* syntax highlighting (base16) */
 $base00: #263238 !default;
@@ -136,18 +141,6 @@ $base0c: #89ddff !default;
 $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
-
-
-
-/* CUSTOM COLORS */
-$teal-color: #4e7f87;
-
-$link-color: mix($teal-color, $info-color, 20%) ;
-$link-color-hover: mix($teal-color, $link-color, 25%) ;
-$link-color-visited: mix(#fff, $link-color, 15%) ;
-$masthead-link-color: $primary-color ;
-$masthead-link-color-hover: mix($teal-color, $primary-color, 25%) ;
-$navicon-link-color-hover: mix($teal-color, $primary-color, 75%) ;
 
 
 
