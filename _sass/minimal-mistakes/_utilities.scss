@@ -193,8 +193,8 @@ body:hover .visually-hidden button {
 .icon {
   display: inline-block;
   fill: currentColor;
-  width: 0.5em;
-  height: 0.5em;
+  width: 1em;
+  height: 1.1em;
   line-height: 1;
   position: relative;
   top: -0.1em;
@@ -322,7 +322,7 @@ body:hover .visually-hidden button {
 
   .fa-xing,
   .fa-xing-square {
-    color: $xing-color;
+    color: $text-color;
   }
 }
 

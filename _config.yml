@@ -24,16 +24,16 @@ host                     : "0.0.0.0"
 twitter_username: ShanHuang_ec
 github_username: ShanHuang-ec
 minimal_mistakes_skin: default
-search: true
+search: false
 
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -64,7 +64,7 @@ author:
   name   : "Shan Huang"
   avatar : "/assets/images/Huang_france_250.jpg"
   bio    : "I'm a PhD student in Economics at **DIW Berlin** and **BSE Berlin**. I'm also affiliated with **University of Copenhagen**."
-  location: "Berlin, Germany"
+  #location: "Berlin, Germany"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
@@ -93,16 +93,16 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: "_pages"
@@ -111,9 +111,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
