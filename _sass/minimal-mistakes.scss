@@ -5,14 +5,12 @@
 */
 
 /* CUSTOM HEADLINE SCALE */
-$h-size-1: 1.3em; // ~25.008px
-$h-size-2: 1.14em; // ~20px
-$h-size-3: 1.125em; // ~18px
-$h-size-4: 1.1em; // ~17px
-$h-size-5: 1.05em; // ~16.5px
-$h-size-6: 1em; // ~16px
-
-
+$h-size-1: 1.35em; // ~25.008px
+$h-size-2: 1.15em; // ~20px
+$h-size-3: 1.05em; // ~18px
+$h-size-4: 0.95em; // ~17px
+$h-size-5: 0.9em; // ~16.5px
+$h-size-6: 0.85em; // ~16px
 
 
 /* Variables */
@@ -49,3 +47,22 @@ $h-size-6: 1em; // ~16px
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+
+
+
+
+
+/* CUSTOM UNDERLINE COLOR */
+.greedy-nav .visible-links a:before {
+  background-color: mix(#000, $teal-color, 10%);
+}
+
+
+/* CUSTOM DETAILS */
+details {
+	margin-left: 1em;
+	margin-top: -1em;
+	padding-bottom: 1em;
+	color: $primary-color;
+}

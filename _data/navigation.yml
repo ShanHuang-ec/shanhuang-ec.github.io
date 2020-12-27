@@ -1,7 +1,7 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Policy Writing"
+    url: /policy/    
   - title: "CV"
     url: /cv/    
-  - title: "About Me"
-    url: /aboutme/

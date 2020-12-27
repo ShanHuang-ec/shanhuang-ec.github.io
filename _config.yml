@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Shan Huang"
   avatar : "/assets/images/Huang_france_250.jpg"
-  bio    : "I'm a PhD student in Economics at **DIW Berlin** and **BSE Berlin**. I'm also affiliated with **University of Copenhagen**."
+  bio    : "I'm a PhD student in Economics at **DIW Berlin** and **BSE Berlin**."
   location: "Berlin, Germany"
   links:
     - label: "Twitter"
@@ -77,7 +77,7 @@ author:
       url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.564116.en"   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ShanHuang-ec"         
+      url: #"https://github.com/ShanHuang-ec"         
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:shuang@diw.de"      
