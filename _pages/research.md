@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 
-### Working in Progress
+### Work in Progress
 
 Physician effects in antibiotic prescribing: Evidence from physician exits <br/>
 <small>*Draft available on request* (with [Hannes Ullrich])</small>  
@@ -15,7 +15,8 @@ Physician effects in antibiotic prescribing: Evidence from physician exits <br/>
 </small>
 </details>
 
-Economies of scope in health data: Evidence from predicting bacterial infections <br/>
+[//]: # (Economies of scope in health data: Evidence from predicting bacterial infections <br/>)
+Economies of scope in health data <br/>
 <small>(with [Hannes Ullrich] and [Michael Ribers])</small>  
 
 
