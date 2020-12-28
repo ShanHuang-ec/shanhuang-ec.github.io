@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale                   : "en-US"
 logo: "/assets/images/mastheadLogo.png"
 repository               : "ShanHuang-ec/shanhuang-ec.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 masthead_title           : "Shan Huang"
