@@ -172,12 +172,13 @@
 
 .author__bio {
   margin: 0;
-  font-size: 0.9em;
+  font-size: 1em;
   font-style: italic;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-right: 1.25em;
   }
 }
 
