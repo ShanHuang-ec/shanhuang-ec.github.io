@@ -15,8 +15,7 @@ Human antibiotic consumption is considered the main driver of antibiotic resista
 </small>
 </details>
 
-[//]: # (Economies of scope in health data: Evidence from predicting bacterial infections <br/>)
-Economies of scope in health data <br/>
+The Value of Data for Prediction Policy Problems: Evidence from Antibiotic Prescribing <br/>
 <small>(with [Hannes Ullrich] and [Michael Ribers])</small>  
 
 
