@@ -20,7 +20,7 @@ masthead_title           : "Shan Huang"
 title: "Shan Huang"
 email: shuang@diw.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Academic personal website for Shan Huang. I'm a Phd student in economics at DIW Berlin and Berlin School of Economics, and affiliated with BCCP and Copenhagen University. 
+  Academic personal website for Shan Huang. I'm a Phd student in economics at DIW Berlin and BSE. 
 port                     : 4000
 host                     : "0.0.0.0" 
 twitter_username: ShanHuang_ec
