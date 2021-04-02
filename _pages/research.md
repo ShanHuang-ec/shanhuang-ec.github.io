@@ -5,7 +5,7 @@ permalink: /research/
 
 
 ### Working Papers
-The value of data for prediction policy problems: Evidence from antibiotic prescribing <br/>(https://www.diw.de/documents/publikationen/73/diw_01.c.814285.de/dp1939.pdf) <br/>
+[The value of data for prediction policy problems: Evidence from antibiotic prescribing](https://www.diw.de/documents/publikationen/73/diw_01.c.814285.de/dp1939.pdf) <br/>
 <small>*DIW Discussion Paper*, Nr. 1939 (with [Hannes Ullrich] and [Michael Ribers])</small>  
 <details>
 <summary><small>Abstract</small></summary>
