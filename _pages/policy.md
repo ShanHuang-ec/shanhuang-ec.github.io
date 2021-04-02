@@ -15,8 +15,8 @@ title: "Policy Writing"
 
 ### In German
 
-[Der gesellschaftliche Mehrwert verkn{\"u}pfter Daten: Algorithmen als Entscheidungshilfen bei Antibiotikaverschreibungen (German)]
-(https://www.diw.de/de/diw_01.c.814365.de/publikationen/wochenberichte/2021_13_1/der_gesellschaftliche_mehrwert_verknuepfter_daten__algorithmen_als_entscheidungshilfen_bei_antibiotikaverschreibungen.html)
+[Der gesellschaftliche Mehrwert verknüpfter Daten: Algorithmen als Entscheidungshilfen bei Antibiotikaverschreibungen (German)]
+(https://www.diw.de/de/diw_01.c.814365.de/publikationen/wochenberichte/2021_13_1/der_gesellschaftliche_mehrwert_verknuepfter_daten__algorithmen_als_entscheidungshilfen_bei_antibiotikaverschreibungen.html) <br/>
 <small>*DIW Wochenbericht 13/14 / 2021*, March 31 2021 (with [Michael Ribers] and [Hannes Ullrich])
 </small>
 
