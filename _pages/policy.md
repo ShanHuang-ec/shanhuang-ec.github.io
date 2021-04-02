@@ -14,6 +14,12 @@ title: "Policy Writing"
 
 
 ### In German
+
+[Der gesellschaftliche Mehrwert verkn{\"u}pfter Daten: Algorithmen als Entscheidungshilfen bei Antibiotikaverschreibungen (German)]
+(https://www.diw.de/de/diw_01.c.814365.de/publikationen/wochenberichte/2021_13_1/der_gesellschaftliche_mehrwert_verknuepfter_daten__algorithmen_als_entscheidungshilfen_bei_antibiotikaverschreibungen.html)
+<small>*DIW Wochenbericht 13/14 / 2021*, March 31 2021 (with [Michael Ribers] and [Hannes Ullrich])
+</small>
+
 [Unisex-Regelung verringerte Geschlechterl&uuml;cke beim Wechsel zur privaten Krankenversicherung](https://www.diw.de/de/diw_01.c.801464.de/publikationen/wochenberichte/2020_44_1/unisex-regelung_verringerte_geschlechterluecke_beim_wechsel_zur_privaten_krankenversicherung.html) <br/>
 <small>*DIW Wochenbericht 44 / 2020*, October 28 2020 (with [Martin Salm])
 </small>
@@ -26,3 +32,5 @@ title: "Policy Writing"
 
 
 [Martin Salm]: <https://www.tilburguniversity.edu/staff/m-salm>
+[Hannes Ullrich]: <https://hannesullrich.com/>
+[Michael Ribers]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/246289>
