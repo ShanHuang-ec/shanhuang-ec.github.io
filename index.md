@@ -11,6 +11,7 @@ My research interests are in health economics and applied microeconometrics. I a
 
 I am also affiliated with the [University of Copenhagen] and [BCCP Berlin].
 
+I will be visiting [Haas School of Business at the University of California, Berkeley], from September to December 2021.
 
 
 
@@ -18,5 +19,6 @@ I am also affiliated with the [University of Copenhagen] and [BCCP Berlin].
 
    [DIW Berlin Graduate Center]: <https://www.diw.de/en/diw_01.c.619412.en/graduate_center.html>
    [Berlin School of Economics]: <https://www.berlin-econ.de/>
-   [University of Copenhagen]: <https://www.economics.ku.dk/>
+   [University of Copenhagen]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/661700>
    [BCCP Berlin]: <https://www.bccp-berlin.de/>
+   [Haas School of Business at the University of California, Berkeley]: <https://haas.berkeley.edu/scholars/current-visiting-scholars/>
