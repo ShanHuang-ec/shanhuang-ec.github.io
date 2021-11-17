@@ -7,7 +7,7 @@ title: "About me"
 
 I am a PhD candidate in Economics in the Department of Firms and Markets at the [DIW Berlin Graduate Center] and at the [Berlin School of Economics].
 
-My research interests are in health economics and applied microeconometrics. I am particularly interested in the intersections of health economics with behavioral economics, the digital economy, and empirical industrial organization. I currently work on topics related to physician behavior and antibiotic prescribing and resistance.
+My research interests are in health economics and applied microeconometrics. I am particularly interested in the intersections of health economics with behavioral economics, the digital economy, and empirical industrial organization. I currently work on topics related to physician decision-making and antibiotic prescribing and resistance.
 
 I am also affiliated with the [University of Copenhagen] and [BCCP Berlin].
 
