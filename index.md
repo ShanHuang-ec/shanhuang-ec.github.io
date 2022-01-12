@@ -11,7 +11,7 @@ My research interests are in health economics and applied microeconometrics. I a
 
 I am also affiliated with the [University of Copenhagen] and [BCCP Berlin].
 
-I will be visiting [Haas School of Business at the University of California, Berkeley], from September to December 2021.
+I am visiting [Haas School of Business at the University of California, Berkeley], from September 2021 to January 2022.
 
 
 
