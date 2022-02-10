@@ -5,15 +5,6 @@ permalink: /research/
 
 
 ### Working Papers
-[The value of data for prediction policy problems: Evidence from antibiotic prescribing](https://www.diw.de/documents/publikationen/73/diw_01.c.814285.de/dp1939.pdf) <br/>
-<small>*DIW Discussion Paper*, Nr. 1939 (with [Hannes Ullrich] and [Michael Ribers])</small>  
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-Large-scale data show promise to provide efficiency gains through individualized risk predictions in many business and policy settings. Yet, assessments of the degree of data-enabled efficiency improvements remain scarce. We quantify the value of the availability of a variety of data combinations for tackling the policy problem of curbing antibiotic resistance, where the reduction of inefficient antibiotic use requires improved diagnostic prediction. Focusing on antibiotic prescribing for suspected urinary tract infections in primary care in Denmark, we link individual-level administrative data with microbiological laboratory test outcomes to train a machine learning algorithm predicting bacterial test results. For various data combinations, we assess out of sample prediction quality and efficiency improvements due to prediction-based prescription policies. The largest gains in prediction quality can be achieved using simple characteristics such as patient age and gender or patients' health care data. However, additional patient background data lead to further incremental policy improvements even though gains in prediction quality are small. Our findings suggest that evaluating prediction quality against the ground truth only may not be sufficient to quantify the potential for policy improvements.
-</small>
-</details>
-
 [Physician effects in antibiotic prescribing: Evidence from physician exits](https://www.diw.de/documents/publikationen/73/diw_01.c.821560.de/dp1958.pdf) <br/>
 <small>*DIW Discussion Paper*, Nr. 1958 (with [Hannes Ullrich])</small>  
 <details>
@@ -32,6 +23,16 @@ Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
 
 
 ### Publications
+[The value of data for prediction policy problems: Evidence from antibiotic prescribing](https://www.diw.de/documents/publikationen/73/diw_01.c.814285.de/dp1939.pdf) <br/> 
+<small>Working paper version: *DIW Discussion Paper*, Nr. 1939 (with [Hannes Ullrich] and [Michael Ribers])</small> <br/> 
+<small>*Economics Letters*, forthcoming</small> 
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+Large-scale data show promise to provide efficiency gains through individualized risk predictions in many business and policy settings. Yet, assessments of the degree of data-enabled efficiency improvements remain scarce. We quantify the value of the availability of a variety of data combinations for tackling the policy problem of curbing antibiotic resistance, where the reduction of inefficient antibiotic use requires improved diagnostic prediction. Focusing on antibiotic prescribing for suspected urinary tract infections in primary care in Denmark, we link individual-level administrative data with microbiological laboratory test outcomes to train a machine learning algorithm predicting bacterial test results. For various data combinations, we assess out of sample prediction quality and efficiency improvements due to prediction-based prescription policies. The largest gains in prediction quality can be achieved using simple characteristics such as patient age and gender or patients' health care data. However, additional patient background data lead to further incremental policy improvements even though gains in prediction quality are small. Our findings suggest that evaluating prediction quality against the ground truth only may not be sufficient to quantify the potential for policy improvements.
+</small>
+</details>
+
 
 [The effect of a ban on gender-based pricing on risk selection in the German health insurance market](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3958) <br/>
 <small>*Health Economics*, Vol. 29(1), pp. 3-17, 2020 (with [Martin Salm])</small>  
