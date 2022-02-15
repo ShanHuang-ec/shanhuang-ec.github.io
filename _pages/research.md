@@ -16,11 +16,6 @@ Human antibiotic consumption is considered the main driver of antibiotic resista
 
 
 
-### Work in Progress
-Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
-
-
-
 
 ### Publications
 [The value of data for prediction policy problems: Evidence from antibiotic prescribing](https://www.diw.de/documents/publikationen/73/diw_01.c.814285.de/dp1939.pdf) <br/> 
@@ -42,6 +37,13 @@ Large-scale data show promise to provide efficiency gains through individualized
 	Starting from December 2012, insurers in the European Union were prohibited from charging gender‐discriminatory prices. We examine the effect of this unisex mandate on risk segmentation in the German health insurance market. Although gender used to be a pricing factor in Germany's private health insurance (PHI) sector, it was never used as a pricing factor in the social health insurance (SHI) sector. The unisex mandate makes PHI relatively more attractive for women and less attractive for men. Based on data from the German socio‐economic panel, we analyze how the unisex mandate affects the difference between women and men in switching rates between SHI and PHI. We find that the unisex mandate increases the probability of switching from SHI to PHI for women relative to men. On the other hand, the unisex mandate has no effect on the gender difference in switching rates from PHI to SHI. Because women have on average higher health care expenditures than men, our results imply a worsening of the PHI risk pool and an improvement of the SHI risk pool. Our results demonstrate that regulatory measures such as the unisex mandate can affect risk selection between public and private health insurance sectors.
 </small>
 </details>
+
+
+
+### Work in Progress
+Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
+
+
 
 [//]: # (Links)
 
