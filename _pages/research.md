@@ -18,9 +18,8 @@ Human antibiotic consumption is considered the main driver of antibiotic resista
 
 
 ### Publications
-[The value of data for prediction policy problems: Evidence from antibiotic prescribing](https://www.diw.de/documents/publikationen/73/diw_01.c.814285.de/dp1939.pdf) <br/> 
-<small>Working paper version: *DIW Discussion Paper*, Nr. 1939 (with [Hannes Ullrich] and [Michael Ribers])</small> <br/> 
-<small>*Economics Letters*, forthcoming</small> 
+[The value of data for prediction policy problems: Evidence from antibiotic prescribing](https://doi.org/10.1016/j.econlet.2022.110360) <br/> 
+<small>*Economics Letters*, forthcoming (with [Hannes Ullrich] and [Michael Ribers])</small> <br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
