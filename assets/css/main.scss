@@ -18,6 +18,6 @@ a.u-url {
   pointer-events: none;
   cursor: default;
   text-decoration: none;
-  /* color: mix(#000, $teal-color, 10%); */
-  color: $gray;
+  color: mix(#000, $teal-color, 10%);
+  /* color: $gray; */
 }
