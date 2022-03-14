@@ -40,7 +40,7 @@ permalink: /research/
 
 
 ### Work in Progress
-Physician-patient match and diagnostic quality in antibiotic prescribing
+Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
 Physician altruism, industry payments, and drug prescribing (with [William H. Dow] and [Jing Li]) <br/>
 
 
