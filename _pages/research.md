@@ -19,7 +19,7 @@ permalink: /research/
 
 ### Publications
 [Assessing the value of data for prediction policies: The case of antibiotic prescribing](https://doi.org/10.1016/j.econlet.2022.110360) <br/> 
-<small>*Economics Letters*, forthcoming (with [Hannes Ullrich] and [Michael Ribers])</small> <br/> 
+<small>*Economics Letters*, Vol. 213, 110360 (with [Michael Ribers] and [Hannes Ullrich])</small> <br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -42,6 +42,8 @@ permalink: /research/
 ### Work in Progress
 Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
 
+Physician altruism, industry payments, and drug prescribing (with [William H. Dow] and [Jing Li]) <br/>
+
 
 
 [//]: # (Links)
@@ -49,3 +51,5 @@ Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
 [Martin Salm]: <https://www.tilburguniversity.edu/staff/m-salm>
 [Hannes Ullrich]: <https://hannesullrich.com/>
 [Michael Ribers]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/246289>
+[Jing Li]: <https://jingliwcm.wixsite.com/mysite>
+[William H. Dow]: <https://publichealth.berkeley.edu/people/william-dow/>
