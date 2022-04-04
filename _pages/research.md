@@ -41,7 +41,7 @@ permalink: /research/
 
 ### Work in Progress
 Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
-Physician altruism, industry payments, and drug prescribing (with [William H. Dow] and [Jing Li]) <br/>
+Physician altruism, industry payments, and drug prescribing (with [Jing Li] and [Larry Casalino]) <br/>
 
 
 
@@ -51,4 +51,4 @@ Physician altruism, industry payments, and drug prescribing (with [William H. Do
 [Hannes Ullrich]: <https://hannesullrich.com/>
 [Michael Ribers]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/246289>
 [Jing Li]: <https://jingliwcm.wixsite.com/mysite>
-[William H. Dow]: <https://publichealth.berkeley.edu/people/william-dow/>
+[Larry Casalino]: <https://gradschool.weill.cornell.edu/faculty/lawrence-casalino>
