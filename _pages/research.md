@@ -19,7 +19,7 @@ permalink: /research/
 
 ### Publications
 [Assessing the value of data for prediction policies: The case of antibiotic prescribing](https://doi.org/10.1016/j.econlet.2022.110360) <br/> 
-<small>*Economics Letters*, Vol. 213, 110360 (with [Michael Ribers] and [Hannes Ullrich])</small> <br/> 
+<small>*Economics Letters*, Vol. 213, 110360 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -42,13 +42,17 @@ permalink: /research/
 ### Work in Progress
 Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
 Physician altruism, industry payments, and drug prescribing (with [Jing Li] and [Larry Casalino]) <br/>
-
+Salience of antibiotic resistance and antibiotic prescribing in primary care: [Preregistration] (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])
 
 
 [//]: # (Links)
 
 [Martin Salm]: <https://www.tilburguniversity.edu/staff/m-salm>
 [Hannes Ullrich]: <https://hannesullrich.com/>
-[Michael Ribers]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/246289>
+[Michael Allan Ribers]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/246289>
 [Jing Li]: <https://jingliwcm.wixsite.com/mysite>
 [Larry Casalino]: <https://gradschool.weill.cornell.edu/faculty/lawrence-casalino>
+[Barbara Juliane Holzknecht]: <https://ikm.ku.dk/english/contact/specialties/clinical-microbiology/?pure=en/persons/623384>
+[Jonas Bredtoft Boel]: <https://research.regionh.dk/en/persons/jonas-bredtoft-boel(2ab4401e-406e-4f43-88d2-f4586c9e4fb2).html>
+[Jette Brommann Kornum]: <https://vbn.aau.dk/en/persons/129769>
+[Michael Pedersen]: <https://research.regionh.dk/hvidovre/en/persons/michael-pedersen(4fff11b2-1cdd-4a72-8d5b-707b52839350).html>
