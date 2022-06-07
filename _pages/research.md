@@ -56,3 +56,5 @@ Salience of antibiotic resistance and antibiotic prescribing in primary care: [P
 [Jonas Bredtoft Boel]: <https://research.regionh.dk/en/persons/jonas-bredtoft-boel(2ab4401e-406e-4f43-88d2-f4586c9e4fb2).html>
 [Jette Brommann Kornum]: <https://vbn.aau.dk/en/persons/129769>
 [Michael Pedersen]: <https://research.regionh.dk/hvidovre/en/persons/michael-pedersen(4fff11b2-1cdd-4a72-8d5b-707b52839350).html>
+
+[Preregistration]: <https://osf.io/kmhbv>
