@@ -11,6 +11,7 @@ My research interests are in health economics and applied microeconometrics. I a
 
 I am also affiliated with the [University of Copenhagen] and [BCCP Berlin]. I was a visiting student at [Haas School of Business at the University of California, Berkeley], from September 2021 to February 2022.
 
+I will join the [Chair for Entrepreneurship, University of Zurich], in September 2022.
 
 
 [//]: # (Links)
@@ -20,3 +21,4 @@ I am also affiliated with the [University of Copenhagen] and [BCCP Berlin]. I wa
    [University of Copenhagen]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/661700>
    [BCCP Berlin]: <https://www.bccp-berlin.de/>
    [Haas School of Business at the University of California, Berkeley]: <https://haas.berkeley.edu/scholars/current-visiting-scholars/>
+   [Chair for Entrepreneurship, University of Zurich]: <https://www.business.uzh.ch/en/research/professorships/entrepreneurship.html>
