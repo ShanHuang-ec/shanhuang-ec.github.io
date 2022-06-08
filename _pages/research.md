@@ -41,7 +41,9 @@ permalink: /research/
 
 ### Work in Progress
 Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
+<br/>
 Physician altruism, industry payments, and drug prescribing (with [Jing Li] and [Larry Casalino]) <br/>
+<br/>
 Salience of antibiotic resistance and antibiotic prescribing in primary care: [Preregistration] (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])
 
 
