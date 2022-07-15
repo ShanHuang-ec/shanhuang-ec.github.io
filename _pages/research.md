@@ -19,7 +19,7 @@ permalink: /research/
 
 ### Publications
 [Assessing the value of data for prediction policies: The case of antibiotic prescribing](https://doi.org/10.1016/j.econlet.2022.110360) <br/> 
-<small>*Economics Letters*, Vol. 213, 110360 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
+<small>*Economics Letters*, Vol. 213, 110360, 2022 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
