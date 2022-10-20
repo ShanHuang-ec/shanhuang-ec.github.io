@@ -42,18 +42,19 @@ permalink: /research/
 ### Work in Progress
 Physician-patient match and diagnostic quality in antibiotic prescribing <br/>
 <br/>
-Physician altruism, industry payments, and drug prescribing (with [Jing Li] and [Larry Casalino]) <br/>
+Physician altruism, industry payments, and drug prescribing (with [Anirban Basu], [Lawrence Casalino], and [Jing Li]) <br/>
 <br/>
 Salience of antibiotic resistance and antibiotic prescribing in primary care: [Preregistration] (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])
 
 
 [//]: # (Links)
 
+[Anirban Basu]: <http://www.anirbanbasu.org/>
 [Martin Salm]: <https://www.tilburguniversity.edu/staff/m-salm>
 [Hannes Ullrich]: <https://hannesullrich.com/>
 [Michael Allan Ribers]: <https://www.economics.ku.dk/staff/vip/?pure=en/persons/246289>
 [Jing Li]: <https://jingliwcm.wixsite.com/mysite>
-[Larry Casalino]: <https://gradschool.weill.cornell.edu/faculty/lawrence-casalino>
+[Lawrence Casalino]: <https://gradschool.weill.cornell.edu/faculty/lawrence-casalino>
 [Barbara Juliane Holzknecht]: <https://ikm.ku.dk/english/contact/specialties/clinical-microbiology/?pure=en/persons/623384>
 [Jonas Bredtoft Boel]: <https://research.regionh.dk/en/persons/jonas-bredtoft-boel(2ab4401e-406e-4f43-88d2-f4586c9e4fb2).html>
 [Jette Brommann Kornum]: <https://vbn.aau.dk/en/persons/129769>
