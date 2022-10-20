@@ -5,13 +5,9 @@ title: "About me"
 ---
 
 
-I am a PhD candidate in Economics in the Department of Firms and Markets at the [DIW Berlin Graduate Center] and at the [Berlin School of Economics].
+I am a PhD candidate in Economics at the [DIW Berlin Graduate Center] and the [Berlin School of Economics], based at the [Chair for Entrepreneurship, University of Zurich]. I am also affiliated with the [University of Copenhagen].
 
 My research interests are in health economics and applied microeconometrics. I am particularly interested in the intersections of health economics with behavioral economics, the digital economy, and empirical industrial organization. I currently work on topics related to physician decision-making and antibiotic prescribing and resistance.
-
-I am also affiliated with the [University of Copenhagen] and [BCCP Berlin]. I was a visiting student at [Haas School of Business at the University of California, Berkeley], from September 2021 to February 2022.
-
-I will join the [Chair for Entrepreneurship, University of Zurich], in September 2022.
 
 
 [//]: # (Links)
