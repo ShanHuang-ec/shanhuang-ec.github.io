@@ -1,7 +1,9 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
   - title: "Policy Writing"
     url: /policy/    
   - title: "CV"
-    url: /cv/   
+    url: /assets/files/cv.pdf   
