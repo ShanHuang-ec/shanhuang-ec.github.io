@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Working Papers
 [Physician effects in antibiotic prescribing: Evidence from physician exits](https://www.diw.de/documents/publikationen/73/diw_01.c.821560.de/dp1958.pdf) <br/>
-<small>*DIW Discussion Paper*, Nr. 1958 (with [Hannes Ullrich])</small>  
+<small>*DIW Discussion Paper*, Nr. 1958 (with [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -29,7 +29,7 @@ permalink: /research/
 
 
 [The effect of a ban on gender-based pricing on risk selection in the German health insurance market](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3958) <br/>
-<small>*Health Economics*, Vol. 29(1), pp. 3-17, 2020 (with [Martin Salm])</small>  
+<small>*Health Economics*, Vol. 29(1), pp. 3-17, 2020 (with [Martin Salm])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -40,9 +40,12 @@ permalink: /research/
 
 
 ### Work in Progress
-The role of physician altruism in the physician-industry relationship: Draft available on request (with [Anirban Basu], [Lawrence Casalino], and [Jing Li]) <br/>
+The role of physician altruism in the physician-industry relationship <br/>
+<small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
 <br/>
-Salience of antibiotic resistance and antibiotic prescribing in primary care: [Preregistration] (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])
+Salience of antibiotic resistance and antibiotic prescribing in primary care <br/> 
+<small>[Preregistration] (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
+
 
 
 [//]: # (Links)
