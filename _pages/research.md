@@ -42,9 +42,9 @@ permalink: /research/
 ### Work in Progress
 The role of physician altruism in the physician-industry relationship <br/>
 <small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
-<br/>
+
 Salience of antibiotic resistance and antibiotic prescribing in primary care <br/> 
-<small>[Preregistration] (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
+<small>*[Preregistration]* (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
 
 
 
