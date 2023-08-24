@@ -7,6 +7,7 @@ permalink: /research/
 ### Working Papers
 [Provider effects in antibiotic prescribing: Evidence from physician exits](https://opus4.kobv.de/opus4-hsog/frontdoor/deliver/index/docId/4975/file/BSE_DP_0018.pdf) <br/>
 <small>*BSE Discussion Paper*, Nr. 18 (with [Hannes Ullrich])</small> <br/>  
+<small>Revise and Resubmit at *Journal of Human Resources*</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -42,6 +43,9 @@ permalink: /research/
 ### Work in Progress
 The role of physician altruism in the physician-industry relationship <br/>
 <small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
+
+The causal effect of antibiotic prescribing on population antibiotic resistance <br/> 
+<small>(with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
 
 Salience of antibiotic resistance and antibiotic prescribing in primary care <br/> 
 <small>*[Preregistration]* (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
