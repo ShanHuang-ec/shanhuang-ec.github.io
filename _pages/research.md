@@ -7,7 +7,7 @@ permalink: /research/
 ### Working Papers
 [Provider effects in antibiotic prescribing: Evidence from physician exits](https://opus4.kobv.de/opus4-hsog/frontdoor/deliver/index/docId/4975/file/BSE_DP_0018.pdf) <br/>
 <small>*BSE Discussion Paper*, Nr. 18 (with [Hannes Ullrich]) <br> 
-Revise and Resubmit at *Journal of Human Resources*</small> <br/>  
+Revise and resubmit at *Journal of Human Resources*</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
