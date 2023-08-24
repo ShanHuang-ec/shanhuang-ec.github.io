@@ -16,6 +16,9 @@ Revise and resubmit at *Journal of Human Resources*</small> <br/>
 </details>
 
 
+The role of physician altruism in the physician-industry relationship <br/>
+<small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
+
 
 
 ### Publications
@@ -41,9 +44,6 @@ Revise and resubmit at *Journal of Human Resources*</small> <br/>
 
 
 ### Work in Progress
-The role of physician altruism in the physician-industry relationship <br/>
-<small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
-
 The causal effect of antibiotic prescribing on population antibiotic resistance <br/> 
 <small>(with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
 
