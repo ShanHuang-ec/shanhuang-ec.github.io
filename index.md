@@ -7,7 +7,7 @@ title: "About me"
 
 I am a postdoctoral researcher at the Department of Business Administration at the [University of Zurich] and the Department of Economics at the [University of Copenhagen]. I received my PhD in Economics from the University of Copenhagen in 2023. During my PhD, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics].
 
-My research interests are in health economics and applied microeconomics. I currently work on topics related to physician decision-making and antibiotic prescribing and resistance.
+My main research interests are in health economics and applied microeconomics. I currently work on topics related to physician decision-making and antibiotic prescribing and resistance.
 
 
 [//]: # (Links)
