@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Shan Huang"
   avatar : "/assets/images/Huang_france_250.jpg"
-  bio    : "I'm a postdoc at **UZH Zurich** and **University of Copenhagen**."
+  bio    : "I'm a postdoc at **UZH Zurich** and **University of Copenhagen**. I'm interested in health economics."
   location: "Zurich, Switzerland"
   links:
     - label: "Twitter"
