@@ -46,10 +46,7 @@ The role of physician altruism in the physician-industry relationship <br/>
 ### Work in Progress
 The causal effect of antibiotic prescribing on population antibiotic resistance <br/> 
 <small>(with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
-
-[//]: # (Salience of antibiotic resistance and antibiotic prescribing in primary care <br/>) 
-[//]: # (<small>*[Preregistration]* (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>)  
-
+ 
 
 
 [//]: # (Links)
@@ -66,3 +63,5 @@ The causal effect of antibiotic prescribing on population antibiotic resistance 
 [Michael Pedersen]: <https://research.regionh.dk/hvidovre/en/persons/michael-pedersen(4fff11b2-1cdd-4a72-8d5b-707b52839350).html>
 
 [Preregistration]: <https://osf.io/kmhbv>
+[//]: # Salience of antibiotic resistance and antibiotic prescribing in primary care <br/>
+[//]: # <small>*[Preregistration]* (with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>
