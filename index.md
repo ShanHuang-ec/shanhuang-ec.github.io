@@ -9,7 +9,7 @@ I am a postdoctoral researcher at the Department of Business Administration at t
 
 My main research interests are in health economics and applied microeconomics. I currently work on topics related to physician decision-making and antibiotic prescribing and resistance.
 
-I received my PhD in Economics from the University of Copenhagen in 2023. During my PhD, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics].
+I received my PhD in Economics from the University of Copenhagen in 2023. During my PhD, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics]. I will join [Stockholm School of Economics] in February 2024. 
 
 [//]: # (Links)
 
@@ -19,3 +19,4 @@ I received my PhD in Economics from the University of Copenhagen in 2023. During
    [BCCP Berlin]: <https://www.bccp-berlin.de/>
    [Haas School of Business at the University of California, Berkeley]: <https://haas.berkeley.edu/scholars/current-visiting-scholars/>
    [University of Zurich]: <https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/Shan-Huang.html>
+   [Stockholm School of Economics]: <https://www.hhs.se/en/>
