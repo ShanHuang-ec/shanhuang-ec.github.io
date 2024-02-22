@@ -20,7 +20,7 @@ masthead_title           : "Shan Huang"
 title: "Shan Huang"
 email: shuang@diw.de
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a postdoctoral researcher at the University of Zurich and the University of Copenhagen. This is my personal webpage.
+  I'm a postdoctoral researcher at Stockholm School of Economics and the University of Copenhagen. This is my personal webpage.
 port                     : 4000
 host                     : "0.0.0.0" 
 twitter_username: ShanHuang_ec
@@ -65,21 +65,21 @@ plugins:
 author:
   name   : "Shan Huang"
   avatar : "/assets/images/Huang_france_250.jpg"
-  bio    : "I'm a postdoc at **UZH Zurich** and **University of Copenhagen**. I'm interested in health economics."
-  location: "Zurich, Switzerland"
+  bio    : "I'm a postdoc at **SSE Stockholm** and **KU Copenhagen**. I'm interested in health economics."
+  location: "Stockholm, Sweden"
   links:
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/ShanHuang_ec"
-    - label: "UZH page"
+    - label: "SSE page"
       icon: "fas fa-fw fa-link"
-      url: "https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/Shan-Huang.html"   
+      url: "https://www.hhs.se/en/persons/h/huang-shan/"   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: #"https://github.com/ShanHuang-ec"         
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:shan.huang@business.uzh.ch"      
+      url: "mailto:Shan.Huang@hhs.se"      
 
 footer:
 #  links:
