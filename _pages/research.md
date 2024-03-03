@@ -7,7 +7,7 @@ permalink: /research/
 ### Working Papers
 [Provider effects in antibiotic prescribing: Evidence from physician exits](https://opus4.kobv.de/opus4-hsog/frontdoor/deliver/index/docId/4975/file/BSE_DP_0018.pdf) <br/>
 <small>*BSE Discussion Paper*, Nr. 18 (with [Hannes Ullrich]) <br> 
-Revise and resubmit at *Journal of Human Resources*</small> <br/>  
+Accepted at *Journal of Human Resources*</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -18,7 +18,12 @@ Revise and resubmit at *Journal of Human Resources*</small> <br/>
 
 The role of physician altruism in the physician-industry relationship <br/>
 <small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
-
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	Altruism is a key professional norm that underlies the physician's role as a representative agent for patients. However, physician behavior can be influenced when private gains enter the objective function. We study the relationship between altruism and physicians' receipt of financial benefits from pharmaceutical manufacturers, as well as the extent to which altruism mitigates physicians' responsiveness to these industry payments. We combine data on altruistic preferences for 280 physicians, identified using a revealed preference economic experiment, with information on their receipt of monetary and in-kind transfers from pharmaceutical firms along with drug prescription claims data. Less altruistic physicians receive, on average, 2,184 USD  (95% CI: 979.3--3,388.5) higher industry transfers, translating to 254% more in monetary value, compared to physicians with stronger altruistic preferences. Moreover, we observe that industry transfers are associated with higher overall drug costs and brand prescribing rates; however, these correlations are predominantly driven by physicians with less altruistic preferences. We find limited evidence that patient vulnerability moderates industry influences among less altruistic physicians. Our results indicate that altruism is an important determinant of physicians’ relationships with and responses to industry benefits.
+</small>
+</details>
 
 
 ### Publications
