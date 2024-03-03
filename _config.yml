@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Shan Huang"
   avatar : "/assets/images/Huang_france_250.jpg"
-  bio    : "I'm a postdoc at **SSE Stockholm** and **KU Copenhagen**. I'm interested in health economics."
+  bio    : "I'm a postdoc at **Stockholm School of Economics** and the **University of Copenhagen**. I'm interested in health economics."
   location: "Stockholm, Sweden"
   links:
     - label: "Twitter"
