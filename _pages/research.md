@@ -5,17 +5,6 @@ permalink: /research/
 
 
 ### Working Papers
-[Provider effects in antibiotic prescribing: Evidence from physician exits](https://opus4.kobv.de/opus4-hsog/frontdoor/deliver/index/docId/4975/file/BSE_DP_0018.pdf) <br/>
-<small>*BSE Discussion Paper*, Nr. 18 (with [Hannes Ullrich]) <br> 
-Accepted at *Journal of Human Resources*</small> <br/>  
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-	In the fight against antibiotic resistance, reducing antibiotic consumption while preserving healthcare quality presents a critical health policy challenge. We investigate the role of practice styles in patients’ antibiotic intake using exogenous variation in patient-physician assignment. Practice style heterogeneity explains 49% of the differences in overall antibiotic use and 83% of the differences in second-line antibiotic use between primary care providers. We find no evidence that high prescribing is linked to better treatment quality or fewer adverse health outcomes. Policies improving physician decision-making, particularly among high-prescribers, may be effective in reducing antibiotic consumption while sustaining healthcare quality.
-</small>
-</details>
-
-
 The role of physician altruism in the physician-industry relationship <br/>
 <small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
 <details>
@@ -27,6 +16,16 @@ The role of physician altruism in the physician-industry relationship <br/>
 
 
 ### Publications
+[Provider effects in antibiotic prescribing: Evidence from physician exits](https://doi.org/10.3368/jhr.0523-12900R1) <br/>
+<small>*Journal of Human Resources*, forthcoming (with [Hannes Ullrich])</small> <br/>  
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	In the fight against antibiotic resistance, reducing antibiotic consumption while preserving healthcare quality presents a critical health policy challenge. We investigate the role of practice styles in patients’ antibiotic intake using exogenous variation in patient-physician assignment. Practice style heterogeneity explains 49% of the differences in overall antibiotic use and 83% of the differences in second-line antibiotic use between primary care providers. We find no evidence that high prescribing is linked to better treatment quality or fewer adverse health outcomes. Policies improving physician decision-making, particularly among high-prescribers, may be effective in reducing antibiotic consumption while sustaining healthcare quality.
+</small>
+</details>
+
+
 [Assessing the value of data for prediction policies: The case of antibiotic prescribing](https://doi.org/10.1016/j.econlet.2022.110360) <br/> 
 <small>*Economics Letters*, Vol. 213, 110360, 2022 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
 <details>
@@ -49,6 +48,9 @@ The role of physician altruism in the physician-industry relationship <br/>
 
 
 ### Work in Progress
+Task allocation in knowledge hierarchies: Nurses and doctors <br/> 
+<small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/>  
+
 The causal effect of antibiotic prescribing on population antibiotic resistance <br/> 
 <small>(with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
  
@@ -67,6 +69,8 @@ The causal effect of antibiotic prescribing on population antibiotic resistance 
 [Jette Brommann Kornum]: <https://vbn.aau.dk/en/persons/129769>
 [Michael Pedersen]: <https://research.regionh.dk/hvidovre/en/persons/michael-pedersen(4fff11b2-1cdd-4a72-8d5b-707b52839350).html>
 [Preregistration]: <https://osf.io/kmhbv>
+[Guy Michaels]: <https://personal.lse.ac.uk/michaels/>
+[Amanda Dahlstrand]: <https://sites.google.com/view/dahlstrand>
 
 [//]: # (Salience of antibiotic resistance and antibiotic prescribing in primary care)
 [//]: # (Preregistration with Michael Allan Ribers, Hannes Ullrich, Barbara Juliane Holzknecht, Jonas Bredtoft Boel, Jette Brommann Kornum, and Michael Pedersen)
