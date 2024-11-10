@@ -14,6 +14,9 @@ title: "Policy Writing"
 
 
 ### In German
+[Große Unterschiede bei Antibiotikaverschreibungen lassen auf Ineffizienzen schließen](https://www.diw.de/sixcms/detail.php?id=diw_01.c.914530.de) <br/>
+<small>*DIW Wochenbericht 38 / 2024*, September 18 2024 (with [Hannes Ullrich])
+</small>
 
 [Der gesellschaftliche Mehrwert verknüpfter Daten: Algorithmen als Entscheidungshilfen bei Antibiotikaverschreibungen](https://www.diw.de/de/diw_01.c.814365.de/publikationen/wochenberichte/2021_13_1/der_gesellschaftliche_mehrwert_verknuepfter_daten__algorithmen_als_entscheidungshilfen_bei_antibiotikaverschreibungen.html) <br/>
 <small>*DIW Wochenbericht 13/14 / 2021*, March 31 2021 (with [Michael Ribers] and [Hannes Ullrich])
