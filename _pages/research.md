@@ -48,7 +48,7 @@ The role of physician altruism in the physician-industry relationship <br/>
 
 
 ### Work in Progress
-Task allocation in knowledge hierarchies: Nurses and doctors <br/> 
+Does Division of Labor Increase Productivity? Evidence from Primary Care <br/> 
 <small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/>  
 
 The causal effect of antibiotic prescribing on population antibiotic resistance <br/> 
