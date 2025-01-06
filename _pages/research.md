@@ -5,12 +5,12 @@ permalink: /research/
 
 
 ### Working Papers
-The role of physician altruism in the physician-industry relationship <br/>
-<small>*Draft available on request* (with [Anirban Basu], [Lawrence Casalino], and [Jing Li])</small> <br/>  
+[The role of physician altruism in the physician-industry relationship] <br/>
+<small>(with [Anirban Basu] and [Jing Li])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-	Altruism is a key professional norm that underlies the physician's role as a representative agent for patients. However, physician behavior can be influenced when private gains enter the objective function. We study the relationship between altruism and physicians' receipt of financial benefits from pharmaceutical manufacturers, as well as the extent to which altruism mitigates physicians' responsiveness to these industry payments. We combine data on altruistic preferences for 280 physicians, identified using a revealed preference economic experiment, with information on their receipt of monetary and in-kind transfers from pharmaceutical firms along with drug prescription claims data. Less altruistic physicians receive, on average, 2,184 USD  (95% CI: 979.3--3,388.5) higher industry transfers, translating to 254% more in monetary value, compared to physicians with stronger altruistic preferences. Moreover, we observe that industry transfers are associated with higher overall drug costs and brand prescribing rates; however, these correlations are predominantly driven by physicians with less altruistic preferences. We find limited evidence that patient vulnerability moderates industry influences among less altruistic physicians. Our results indicate that altruism is an important determinant of physicians’ relationships with and responses to industry benefits.
+	Altruism is a key professional norm that underlies the physician's role as a representative agent for patients. However, physician behavior can be influenced when private gains enter the objective function. We study the relationship between altruism and physicians' receipt of financial benefits from pharmaceutical manufacturers, as well as the extent to which altruism mitigates physicians' responsiveness to these industry payments. We link data on altruistic preferences for 280 physicians, identified using a revealed preference economic experiment, with administrative information on their receipt of monetary and in-kind transfers from pharmaceutical firms along with drug prescription claims data. Non-altruistic physicians receive industry transfers that are on average 2,184 USD  (95\% CI: 979.3--3,388.5) or 254\% higher than altruistic physicians. While industry transfers are associated with higher drug spending and brand prescribing rates, these relationships are driven by non-altruistic physicians. Our results indicate that altruism is an important determinant of physicians’ relationships with and responses to industry benefits.
 </small>
 </details>
 
@@ -71,6 +71,8 @@ The causal effect of antibiotic prescribing on population antibiotic resistance 
 [Preregistration]: <https://osf.io/kmhbv>
 [Guy Michaels]: <https://personal.lse.ac.uk/michaels/>
 [Amanda Dahlstrand]: <https://sites.google.com/view/dahlstrand>
+
+[The role of physician altruism in the physician-industry relationship]: <https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf>
 
 [//]: # (Salience of antibiotic resistance and antibiotic prescribing in primary care)
 [//]: # (Preregistration with Michael Allan Ribers, Hannes Ullrich, Barbara Juliane Holzknecht, Jonas Bredtoft Boel, Jette Brommann Kornum, and Michael Pedersen)
