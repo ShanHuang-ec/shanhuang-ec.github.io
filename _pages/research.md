@@ -51,6 +51,9 @@ permalink: /research/
 Does Division of Labor Increase Productivity? Evidence from Primary Care <br/> 
 <small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/>  
 
+AI adoption in primary care: The case of antibiotic prescribing <br/> 
+<small>(with [Renke Schmacker], and [Hannes Ullrich])</small> <br/>  
+
 The causal effect of antibiotic prescribing on population antibiotic resistance <br/> 
 <small>(with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen])</small> <br/>  
  
@@ -71,6 +74,7 @@ The causal effect of antibiotic prescribing on population antibiotic resistance 
 [Preregistration]: <https://osf.io/kmhbv>
 [Guy Michaels]: <https://personal.lse.ac.uk/michaels/>
 [Amanda Dahlstrand]: <https://sites.google.com/view/dahlstrand>
+[Renke Schmacker]: <https://rschmacker.github.io/>
 
 [The role of physician altruism in the physician-industry relationship]: <https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf>
 
