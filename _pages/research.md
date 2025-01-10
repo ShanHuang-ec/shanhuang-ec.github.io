@@ -50,6 +50,12 @@ permalink: /research/
 ### Work in Progress
 Does Division of Labor Increase Productivity? Evidence from Primary Care <br/> 
 <small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/>  
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	The idea that the division of labor increases productivity is central to economic analyses of countries, industries, social structures, and occupations within organizations. We study the division of labor within an online primary healthcare organization, where an algorithm assigns patient cases between two clinician occupations: nurses and doctors. We compare a knowledge hierarchy, in which less specialized nurses resolve some cases themselves and escalate others to doctors, with a direct-to-expert approach where cases are assigned directly to doctors. We use approximately 500,000 cases and an identification strategy that leverages temporary congestion which increases the odds of an assignment to the nurse-initiated knowledge hierarchy. We also explore how the knowledge hierarchy’s comparative advantage varies across case types and assess the extent to which task allocation aligns with comparative advantage. 
+</small>
+</details>
 
 AI adoption in primary care: The case of antibiotic prescribing <br/> 
 <small>(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
