@@ -59,6 +59,12 @@ Does Division of Labor Increase Productivity? Evidence from Primary Care <br/>
 
 AI adoption in primary care: The case of antibiotic prescribing <br/> 
 <small>(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	We study the adoption of AI diagnostic tools in medical care. Using a survey vignette experiment, we examine how physicians integrate signals from AI compared to traditional diagnostics. We focus on antibiotic prescribing in primary care, where treatment decisions rely on both diagnosis and preferences over the trade-off between patient health and antibiotic resistance externalities. The experiment confronts physicians with hypothetical patient cases that allow us to identify the role of automation bias and signal complementarities in physicians' diagnoses. By linking experimental data with observed prescribing, we can also provide insight into how technological adoption shapes variation in healthcare provision.
+</small>
+</details>
 
 [//]: # (The causal effect of antibiotic prescribing on population antibiotic resistance <br/>) 
 [//]: # (<small> with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen] </small> <br/>)  
