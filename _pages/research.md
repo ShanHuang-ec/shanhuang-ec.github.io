@@ -62,7 +62,7 @@ AI adoption in primary care: The case of antibiotic prescribing <br/>
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-	We study the adoption of AI diagnostic tools in medical care. Using a survey vignette experiment, we examine how physicians integrate signals from AI compared to traditional diagnostics. We focus on antibiotic prescribing in primary care, where treatment decisions rely on both diagnosis and preferences over the trade-off between patient health and antibiotic resistance externalities. The experiment confronts physicians with hypothetical patient cases that allow us to identify the role of automation bias and signal complementarities in physicians' diagnoses. By linking experimental data with observed prescribing, we can also provide insight into how technological adoption shapes variation in healthcare provision.
+	We study the adoption of AI diagnostic tools in medical care. Using a survey vignette experiment, we examine how physicians integrate signals from AI compared to traditional diagnostics. We focus on antibiotic prescribing in primary care, where treatment decisions rely on both diagnosis and preferences over the trade-off between patient health and antibiotic resistance externalities. The experiment presents physicians with hypothetical patient cases that allow us to identify the role of automation bias and signal complementarities in physicians' diagnoses. By linking experimental data with observed prescribing, we can also provide insight into how technological adoption shapes variation in healthcare provision.
 </small>
 </details>
 
