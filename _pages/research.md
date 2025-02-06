@@ -6,8 +6,7 @@ permalink: /research/
 
 ### Working Papers
 [The Role of Physician Altruism in the Physician-Industry Relationship: Evidence from Linking Experimental and Observational Data](https://www.nber.org/system/files/working_papers/w33439/w33439.pdf) <br/>
-<small>NBER Working Paper 33439 (with [Anirban Basu] and [Jing Li])</small><br/>  
-<small style="display: block; margin-top: 0;">*Submitted*</small><br/>  
+<small>NBER Working Paper 33439, *submitted* (with [Anirban Basu] and [Jing Li])</small><br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
