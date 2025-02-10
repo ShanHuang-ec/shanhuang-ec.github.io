@@ -69,10 +69,10 @@ author:
   location: "Stockholm, Sweden"
   links:
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://shanhuang.bsky.social"
     - label: "SSE page"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-paperclip"
       url: "https://www.hhs.se/en/persons/h/huang-shan/"   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
