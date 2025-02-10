@@ -18,12 +18,12 @@ logo: "/assets/images/mastheadLogo.png"
 repository               : "ShanHuang-ec/shanhuang-ec.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 masthead_title           : "Shan Huang"
 title: "Shan Huang"
-email: shuang@diw.de
+email: shan.huang@hhs.se
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a postdoctoral researcher at Stockholm School of Economics and the University of Copenhagen. This is my personal webpage.
 port                     : 4000
 host                     : "0.0.0.0" 
-twitter_username: ShanHuang_ec
+# twitter_username: ShanHuang
 github_username: ShanHuang-ec
 minimal_mistakes_skin: default
 search: false
@@ -68,9 +68,9 @@ author:
   bio    : "I'm a health economist at **Stockholm School of Economics** and the **University of Copenhagen**."
   location: "Stockholm, Sweden"
   links:
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/ShanHuang_ec"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://shanhuang.bsky.social"
     - label: "SSE page"
       icon: "fas fa-fw fa-link"
       url: "https://www.hhs.se/en/persons/h/huang-shan/"   
