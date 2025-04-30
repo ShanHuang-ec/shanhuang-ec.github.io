@@ -7,7 +7,6 @@ permalink: /research/
 ### Working Papers
 [The Role of Physician Altruism in the Physician-Industry Relationship: Evidence from Linking Experimental and Observational Data](https://www.nber.org/system/files/working_papers/w33439/w33439.pdf) <br/>
 <small>NBER Working Paper 33439 (with [Anirban Basu] and [Jing Li])</small><br/> 
-<small>*Submitted*</small>
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -91,6 +90,5 @@ AI adoption in primary care: The case of antibiotic prescribing <br/>
 
 [//]: # (Salience of antibiotic resistance and antibiotic prescribing in primary care)
 [//]: # (Preregistration with Michael Allan Ribers, Hannes Ullrich, Barbara Juliane Holzknecht, Jonas Bredtoft Boel, Jette Brommann Kornum, and Michael Pedersen)
-
 
  
