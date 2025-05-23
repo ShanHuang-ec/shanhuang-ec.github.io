@@ -11,7 +11,6 @@ My main research interests are in health economics. In my work, I use microecono
 
 I received my PhD in Economics from the University of Copenhagen in 2023. Previously, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics], and the [University of Zurich]. 
 
-<br></br>
 I am visiting the [Frisch Centre] in Oslo from mid-May to mid-June 2025.
 
 [//]: # (Links)
