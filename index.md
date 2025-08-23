@@ -20,4 +20,4 @@ I received my PhD in Economics from the University of Copenhagen in 2023. Previo
    [Haas School of Business at the University of California, Berkeley]: <https://haas.berkeley.edu/scholars/current-visiting-scholars/>
    [University of Zurich]: <https://www.business.uzh.ch/en/research/professorships/entrepreneurship/team/Shan-Huang.html>
    [Stockholm School of Economics]: <https://www.hhs.se/en/>
-   [Frisch Centre]: <https://www.frisch.uio.no/english/> I am visiting the [Frisch Centre] in Oslo from mid-May to mid-June 2025.
+   [Frisch Centre]: <https://www.frisch.uio.no/english/> 
