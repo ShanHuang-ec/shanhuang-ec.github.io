@@ -5,7 +5,7 @@ permalink: /research/
 
 
 ### Working Papers
-[The Role of Physician Altruism in the Physician-Industry Relationship](https://www.nber.org/system/files/working_papers/w33439/w33439.pdf) <br/>
+[The role of physician altruism in the physician-industry relationship](https://www.nber.org/system/files/working_papers/w33439/w33439.pdf) <br/>
 <small>NBER Working Paper 33439 (with [Anirban Basu] and [Jing Li])</small><br/> 
 <details>
 <summary><small>Abstract</small></summary>
@@ -48,7 +48,7 @@ permalink: /research/
 
 
 ### Work in Progress
-Does Division of Labor Increase Productivity? Evidence from Primary Care <br/> 
+Organizing Expertise with Externalities: Evidence from Primary Care <br/> 
 <small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
@@ -57,7 +57,7 @@ Does Division of Labor Increase Productivity? Evidence from Primary Care <br/>
 </small>
 </details>
 
-AI adoption in primary care: The case of antibiotic prescribing <br/> 
+AI adoption by human experts: Evidence from primary care physicians <br/> 
 <small>(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
