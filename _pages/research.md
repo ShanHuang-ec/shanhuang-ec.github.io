@@ -5,7 +5,7 @@ permalink: /research/
 
 
 ### Working Papers
-[The role of physician altruism in the physician-industry relationship](https://www.nber.org/system/files/working_papers/w33439/w33439.pdf) <br/>
+[The role of physician altruism in the physician-industry relationship](https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf) <br/>
 <small>NBER Working Paper 33439 (with [Anirban Basu] and [Jing Li])</small><br/> 
 <details>
 <summary><small>Abstract</small></summary>
