@@ -5,11 +5,11 @@ title: "About me"
 ---
 
 
-I am a postdoctoral researcher at [Stockholm School of Economics] and the [University of Copenhagen]. 
+I am a postdoctoral researcher at [Stockholm School of Economics]. 
 
 My main research interests are in health economics. In my work, I use microeconometric methods to study how healthcare can be organized better, explore how we can use technology to provide care, examine physician decision-making, and inform policy-making.
 
-I received my PhD in Economics from the University of Copenhagen in 2023. Previously, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics], and the [University of Zurich]. 
+I received my PhD in Economics from the [University of Copenhagen] in 2023. Previously, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics] and the [University of Zurich]. 
 
 [//]: # (Links)
 
