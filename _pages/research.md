@@ -17,7 +17,7 @@ permalink: /research/
 
 ### Publications
 [Provider effects in antibiotic prescribing: Evidence from physician exits](https://doi.org/10.3368/jhr.0523-12900R1) <br/>
-<small>*Journal of Human Resources*, 2026 (with [Hannes Ullrich])</small> <br/>  
+<small>*Journal of Human Resources*, Vol. 61(4), pp. 1159-1191, 2026 (with [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -27,7 +27,7 @@ permalink: /research/
 
 
 [Assessing the value of data for prediction policies: The case of antibiotic prescribing](https://doi.org/10.1016/j.econlet.2022.110360) <br/> 
-<small>*Economics Letters*, 2022 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
+<small>*Economics Letters*, Vol. 213, 110360, 2022 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -37,7 +37,7 @@ permalink: /research/
 
 
 [The effect of a ban on gender-based pricing on risk selection in the German health insurance market](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3958) <br/>
-<small>*Health Economics*, 2020 (with [Martin Salm])</small> <br/>  
+<small>*Health Economics*, Vol. 29(1), pp. 3-17, 2020 (with [Martin Salm])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
