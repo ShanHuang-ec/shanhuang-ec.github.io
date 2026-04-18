@@ -5,7 +5,7 @@ title: "About me"
 ---
 
 
-I am a postdoctoral researcher at [Stockholm School of Economics]. 
+I am a postdoctoral researcher at the [Stockholm School of Economics]. 
 
 My main research interests are in health economics. In my work, I use microeconometric methods to study how healthcare can be organized better, explore how we can use technology to provide care, examine physician decision-making, and inform policy-making.
 
