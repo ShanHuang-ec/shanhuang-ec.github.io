@@ -67,7 +67,8 @@ Organizing Expertise with Externalities: Evidence from Primary Care <br/>
 
 
 
-[//]: ### Work in Progress
+### Work in Progress
+Paid to rush? Physician performance incentives, quality, and downstream costs (with [Amanda Dahlstrand])
 
 
 [//]: # (The causal effect of antibiotic prescribing on population antibiotic resistance <br/>) 
