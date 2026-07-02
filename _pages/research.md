@@ -15,6 +15,25 @@ permalink: /research/
 </details>
 
 
+[AI adoption by human experts: Evidence from primary care physicians](https://www.diw.de/documents/publikationen/73/diw_01.c.1010776.de/dp2168.pdf) <br/> 
+<small>(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	AI can raise productivity by extracting information from rich data, yet little is known about how experts weigh AI-generated signals against established decision-support tools. We conduct a nationwide survey experiment with 372 Danish primary care physicians (21.5% of all clinics), who make diagnostic and treatment decisions on urinary tract infection vignettes before and after receiving a diagnostic signal. Holding accuracy constant, we randomize between-subjects whether the signal appears as an AI prediction or a commonly used dipstick test result. Physicians update beliefs 41% less in response to AI than to dipstick signals, consistent with AI skepticism. Roughly one-third of physicians ignore the AI tool; linked administrative data show that these non-adopters resemble adopters on a range of observables, including clinical practice and prescribing measures, except for lower baseline technology use at their clinics. When physicians use the AI tool, they ignore asymmetry in informativeness between positive and negative signals and, when shown both the AI and a redundant signal, exhibit correlation neglect. These frictions in information processing lead to increased antibiotic prescribing with the AI signal. Our findings highlight the importance of training and information design for AI implementation.
+</small>
+</details>
+
+Organizing Expertise with Externalities: Evidence from Primary Care <br/> 
+<small>Draft available upon request (with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/> 
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	Many modern organizations use knowledge hierarchies, where frontline workers handle incoming tasks and pass those they cannot resolve to experts. But the implications of this organization of expertise are not well understood, especially when firm revenues are contingent on who resolves a task, when the firm generates downstream externalities, or both. We study a knowledge hierarchy (KH) using 500,000 patient cases from an online primary care firm, linked to outcomes and costs across Sweden’s healthcare system. We use variation in assignment arising from temporary doctor congestion, controlling for date-by-three-hour windows and flexible case characteristics. Within the KH, nurses resolve 70% of cases and pass the remainder to doctors. Relative to doctor-only care, the KH modestly affects lower-stakes outcomes (e.g., primary care follow-ups) but has no adverse effects on patient satisfaction or hospitalizations, earnings losses, and mortality. Although the mean effect of KH on systemwide (firm plus downstream) production costs is small, this masks substantial heterogeneity. Compared to using only doctors, the savings from the firm’s selective use of the KH equal 1.5% of online primary care costs. However, reassigning cases between the direct-to-doctor and KH routes within 15-minute windows to minimize systemwide production costs would save 6.6% of online primary care costs.
+</small>
+</details>
+
+
 ### Publications
 [Provider effects in antibiotic prescribing: Evidence from physician exits](https://doi.org/10.3368/jhr.0523-12900R1) <br/>
 <small>*Journal of Human Resources*, Vol. 61(4), pp. 1159-1191, 2026 (with [Hannes Ullrich])</small> <br/>  
@@ -47,24 +66,9 @@ permalink: /research/
 
 
 
-### Work in Progress
-Organizing Expertise with Externalities: Evidence from Primary Care <br/> 
-<small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/>  
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-	Many modern organizations use knowledge hierarchies, where frontline workers handle incoming tasks and pass those they cannot resolve to experts. But the implications of this organization of expertise are not well understood, especially when firm revenues are contingent on who resolves a task, when the firm generates downstream externalities, or both. We study a knowledge hierarchy (KH) using 500,000 patient cases from an online primary care firm, linked to outcomes and costs across Sweden’s healthcare system. We use variation in assignment arising from temporary doctor congestion, controlling for date-by-three-hour windows and flexible case characteristics. Within the KH, nurses resolve 70% of cases and pass the remainder to doctors. Relative to doctor-only care, the KH modestly affects lower-stakes outcomes (e.g., primary care follow-ups) but has no adverse effects on patient satisfaction or hospitalizations, earnings losses, and mortality. Although the mean effect of KH on systemwide (firm plus downstream) production costs is small, this masks substantial heterogeneity. Compared to using only doctors, the savings from the firm’s selective use of the KH equal 1.5% of online primary care costs. However, reassigning cases between the direct-to-doctor and KH routes within 15-minute windows to minimize systemwide production costs would save 6.6% of online primary care costs.
-</small>
-</details>
 
-AI adoption by human experts: Evidence from primary care physicians <br/> 
-<small>(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-	AI has the potential to increase productivity by extracting information from rich data and improving the quality and speed of decision-making. Yet there is limited evidence on how domain experts incorporate AI-generated signals into their decisions relative to familiar, incumbent decision aids. We study expert beliefs and decisions in primary care for urinary tract infections, a leading cause of antibiotic use, where treatment is often initiated under diagnostic uncertainty. In a nationwide survey experiment with 372 Danish primary care physicians, participants evaluate patient vignettes and make diagnostic and prescribing decisions before and after receiving diagnostic signals. We hold signal accuracy constant while varying between-subjects whether the same information is presented as an AI prediction output or as a conventional urine dipstick result. In a second stage, physicians see both signals and we randomize whether the signals are independent or correlated, allowing for a test of correlation neglect. Physicians update less in response to AI than to dipstick signals, consistent with AI skepticism and a heuristic use of the dipstick signal.  When presented with multiple signals, physicians insufficiently adjust for correlation and overweight correlated signals. Physicians can be separated into one group that adopts the AI tool to varying degrees and one that does not adopt the AI tool at all. Non-adopters' mental models indicate concerns about non-informative data and suboptimal information processing by AI. Linked administrative data further show that non-adopters are more likely to practice clinics with lower use of other (diagnostic) technologies.
-</small>
-</details>
+[//]: ### Work in Progress
+
 
 [//]: # (The causal effect of antibiotic prescribing on population antibiotic resistance <br/>) 
 [//]: # (<small> with [Michael Allan Ribers], [Hannes Ullrich], [Barbara Juliane Holzknecht], [Jonas Bredtoft Boel], [Jette Brommann Kornum], and [Michael Pedersen] </small> <br/>)  
