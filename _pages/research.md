@@ -5,8 +5,8 @@ permalink: /research/
 
 
 ### Working Papers
-[The role of physician altruism in the physician-industry relationship](https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf) <br/>
-<small>NBER Working Paper 33439 (with [Anirban Basu] and [Jing Li])</small><br/> 
+The role of physician altruism in the physician-industry relationship <br/>
+<small>[NBER Working Paper 33439](https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf) (with [Anirban Basu] and [Jing Li])</small><br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -15,8 +15,8 @@ permalink: /research/
 </details>
 
 
-[AI adoption by human experts: Evidence from primary care physicians](https://www.diw.de/documents/publikationen/73/diw_01.c.1010776.de/dp2168.pdf) <br/> 
-<small>(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
+AI adoption by human experts: Evidence from primary care physicians <br/> 
+<small>[RFBerlin Discussion Paper No. 199/26](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf)(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
