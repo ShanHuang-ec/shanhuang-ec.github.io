@@ -16,7 +16,7 @@ The role of physician altruism in the physician-industry relationship <br/>
 
 
 AI adoption by human experts: Evidence from primary care physicians <br/> 
-<small>[RFBerlin Discussion Paper No. 199/26](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf)(with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
+<small>[RFBerlin Discussion Paper No. 199/26](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf) (with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
