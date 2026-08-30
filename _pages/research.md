@@ -5,8 +5,8 @@ permalink: /research/
 
 
 ### Working Papers
-The role of physician altruism in the physician-industry relationship <br/>
-<small>[NBER Working Paper 33439](https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf) (with [Anirban Basu] and [Jing Li])</small><br/> 
+[The role of physician altruism in the physician-industry relationship](https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf) <br/>
+<small>*Revise & Resubmit at **Journal of Public Economics*** (with [Anirban Basu] and [Jing Li])</small><br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -15,8 +15,8 @@ The role of physician altruism in the physician-industry relationship <br/>
 </details>
 
 
-AI adoption by human experts: Evidence from primary care physicians <br/> 
-<small>[RFBerlin Discussion Paper No. 199/26](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf) (with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
+[AI adoption by human experts: Evidence from primary care physicians](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf) <br/> 
+<small> (with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -36,7 +36,7 @@ Organizing Expertise with Externalities: Evidence from Primary Care <br/>
 
 ### Publications
 [Provider effects in antibiotic prescribing: Evidence from physician exits](https://doi.org/10.3368/jhr.0523-12900R1) <br/>
-<small>*Journal of Human Resources*, Vol. 61(4), pp. 1159-1191, 2026 (with [Hannes Ullrich])</small> <br/>  
+<small>**Journal of Human Resources**, Vol. 61(4), pp. 1159-1191, 2026 (with [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -46,7 +46,7 @@ Organizing Expertise with Externalities: Evidence from Primary Care <br/>
 
 
 [Assessing the value of data for prediction policies: The case of antibiotic prescribing](https://doi.org/10.1016/j.econlet.2022.110360) <br/> 
-<small>*Economics Letters*, Vol. 213, 110360, 2022 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
+<small>***Economics Letters***, Vol. 213, 110360, 2022 (with [Michael Allan Ribers] and [Hannes Ullrich])</small> <br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -56,7 +56,7 @@ Organizing Expertise with Externalities: Evidence from Primary Care <br/>
 
 
 [The effect of a ban on gender-based pricing on risk selection in the German health insurance market](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3958) <br/>
-<small>*Health Economics*, Vol. 29(1), pp. 3-17, 2020 (with [Martin Salm])</small> <br/>  
+<small>***Health Economics***, Vol. 29(1), pp. 3-17, 2020 (with [Martin Salm])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
 <small>
