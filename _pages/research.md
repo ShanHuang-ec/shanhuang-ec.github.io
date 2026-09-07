@@ -5,22 +5,21 @@ permalink: /research/
 
 
 ### Working Papers
+[AI adoption by human experts: Evidence from primary care physicians](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf) <br/> 
+<small>*Revise & Resubmit at **The Economic Journal*** (with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	AI can raise productivity by extracting information from rich data, yet little is known about how experts weigh AI-generated signals against established decision-support tools. We conduct a nationwide survey experiment with 372 Danish primary care physicians (21.5% of all clinics), who make diagnostic and treatment decisions on urinary tract infection vignettes before and after receiving a diagnostic signal. Holding accuracy constant, we randomize between-subjects whether the signal appears as an AI prediction or a commonly used dipstick test result. Physicians update beliefs 41% less in response to AI than to dipstick signals, consistent with AI skepticism. Roughly one-third of physicians ignore the AI tool; linked administrative data show that these non-adopters resemble adopters on a range of observables, including clinical practice and prescribing measures, except for lower baseline technology use at their clinics. When physicians use the AI tool, they ignore asymmetry in informativeness between positive and negative signals and, when shown both the AI and a redundant signal, exhibit correlation neglect. These frictions in information processing lead to increased antibiotic prescribing with the AI signal. Our findings highlight the importance of training and information design for AI implementation.
+</small>
+</details>
+
 [The role of physician altruism in the physician-industry relationship](https://shanhuang-ec.github.io/assets/files/physician_altruism.pdf) <br/>
 <small>*Revise & Resubmit at **Journal of Public Economics*** (with [Anirban Basu] and [Jing Li])</small><br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
  	Financial incentives can distort physicians' treatment decisions, fueling healthcare spending. Altruism, a core element of medical professionalism, may counteract these distortions. We link altruism elicited from a revealed preference experiment for 267 U.S. physicians to administrative data on industry transfers and prescribing. Non-altruistic physicians receive substantially higher payments (USD 1,775, or 111% more annually) and increase prescribing of promoted drugs after payment, whereas altruistic physicians do not. Divergence is largest in drug classes with high clinical substitutability. Our findings show that altruism moderates the influence of financial incentives in physician-industry ties, limiting the scope for agency problems in prescribing.
-</small>
-</details>
-
-
-[AI adoption by human experts: Evidence from primary care physicians](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf) <br/> 
-<small> (with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-	AI can raise productivity by extracting information from rich data, yet little is known about how experts weigh AI-generated signals against established decision-support tools. We conduct a nationwide survey experiment with 372 Danish primary care physicians (21.5% of all clinics), who make diagnostic and treatment decisions on urinary tract infection vignettes before and after receiving a diagnostic signal. Holding accuracy constant, we randomize between-subjects whether the signal appears as an AI prediction or a commonly used dipstick test result. Physicians update beliefs 41% less in response to AI than to dipstick signals, consistent with AI skepticism. Roughly one-third of physicians ignore the AI tool; linked administrative data show that these non-adopters resemble adopters on a range of observables, including clinical practice and prescribing measures, except for lower baseline technology use at their clinics. When physicians use the AI tool, they ignore asymmetry in informativeness between positive and negative signals and, when shown both the AI and a redundant signal, exhibit correlation neglect. These frictions in information processing lead to increased antibiotic prescribing with the AI signal. Our findings highlight the importance of training and information design for AI implementation.
 </small>
 </details>
 
