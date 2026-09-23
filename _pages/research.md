@@ -23,8 +23,8 @@ permalink: /research/
 </small>
 </details>
 
-Organizing Expertise with Externalities: Evidence from Primary Care <br/> 
-<small>Draft available upon request (with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/> 
+[Organizing Expertise with Externalities: Evidence from Primary Care](http://shanhuang-ec.github.io/assets/files/organizing_expertise.pdf) <br/> 
+<small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/> 
 <details>
 <summary><small>Abstract</small></summary>
 <small>
