@@ -67,7 +67,7 @@ permalink: /research/
 
 
 ### Work in Progress
-Paid to rush? Physician performance incentives, quality, and downstream costs (with [Amanda Dahlstrand])
+The Price of Pace: Physician Quantity Incentives, Quality of Care, and Downstream Costs (with [Amanda Dahlstrand])
 
 
 [//]: # (The causal effect of antibiotic prescribing on population antibiotic resistance <br/>) 
