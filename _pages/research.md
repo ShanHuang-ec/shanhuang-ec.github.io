@@ -67,7 +67,12 @@ permalink: /research/
 
 
 ### Work in Progress
-The Price of Pace: Physician Quantity Incentives, Quality of Care, and Downstream Costs (with [Amanda Dahlstrand])
+The Price of Pace: Physician Quantity Incentives, Quality of Care, and Downstream Costs   <br/>
+<small>(with [Amanda Dahlstrand])</small>
+
+Defragmenting Healthcare: Mental Health and the Organizational Boundaries of Primary Care   <br/>
+<small>*Funded by Region Stockholm, Royal Swedish Academy of Sciences*</small>
+
 
 
 [//]: # (The causal effect of antibiotic prescribing on population antibiotic resistance <br/>) 
