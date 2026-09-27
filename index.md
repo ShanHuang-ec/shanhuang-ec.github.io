@@ -7,7 +7,7 @@ title: "About me"
 
 I am currently a postdoctoral researcher at the [Stockholm School of Economics]. 
 
-I am an applied microeconomist. My research focuses on health economics and its connections to labor and behavioral economics. My work draws on microeconometric methods, supplemented by experiments, to study how healthcare can be organized better, how technology can be used in care delivery, and how physicians make decisions.
+I am an applied microeconomist. My research focuses on health economics and its connections to labor and behavioral economics. My work draws on microeconometric methods, supplemented by experiments, to study how healthcare can be organized better, how technology can be used in the provision of healthcare, and how physicians make decisions.
 
 I received my PhD in Economics from the [University of Copenhagen] in 2023. Previously, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics] and the [University of Zurich]. 
 
