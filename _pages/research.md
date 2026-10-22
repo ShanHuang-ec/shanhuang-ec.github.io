@@ -67,7 +67,7 @@ permalink: /research/
 
 
 ### Work in Progress
-The Price of Pace: How Quantity Incentives Reshape Physician Effort and Its Externalities   <br/>
+The Price of Pace: Paying Experts by Volume  <br/>
 <small>(with [Amanda Dahlstrand])</small>
 
 Defragmenting Healthcare: Mental Health and the Organizational Boundaries of Primary Care   <br/>
