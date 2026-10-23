@@ -75,7 +75,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.hhs.se/en/persons/h/huang-shan/"   
     - label: "Google Scholar"
-      icon: "ai ai-fw ai-google-scholar"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?hl=de&user=Qkm-JYIAAAAJ"         
     - label: "Email"
       icon: "fas fa-envelope"
