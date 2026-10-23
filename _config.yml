@@ -76,7 +76,7 @@ author:
       url: "https://www.hhs.se/en/persons/h/huang-shan/"   
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
-      url: #"https://scholar.google.com/citations?hl=de&user=Qkm-JYIAAAAJ"         
+      url: "https://scholar.google.com/citations?hl=de&user=Qkm-JYIAAAAJ"         
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:Shan.Huang@hhs.se"      
