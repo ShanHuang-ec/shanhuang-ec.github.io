@@ -34,7 +34,7 @@ permalink: /research/
 
 
 ### Publications
-[Provider effects in antibiotic prescribing: Evidence from physician exits](https://doi.org/10.3368/jhr.0523-12900R1) <br/>
+[Provider effects in antibiotic prescribing: Evidence from physician exits](https://jhr.uwpress.org/content/wpjhr/61/4/1159.full.pdf) <br/>
 <small>***Journal of Human Resources***, Vol. 61(4), pp. 1159-1191, 2026 (with [Hannes Ullrich])</small> <br/>  
 <details>
 <summary><small>Abstract</small></summary>
