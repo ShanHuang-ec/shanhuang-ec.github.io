@@ -11,6 +11,8 @@ I am an applied microeconomist. My research focuses on health economics and its 
 
 I received my PhD in Economics from the [University of Copenhagen] in 2023. Previously, I was based at the [DIW Berlin Graduate Center]/[Berlin School of Economics] and the [University of Zurich]. 
 
+***I am on the academic job market in 2026–2027.***
+
 [//]: # (Links)
 
    [DIW Berlin Graduate Center]: <https://www.diw.de/de/diw_01.c.619412.de/graduate_center.html>
