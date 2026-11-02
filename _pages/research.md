@@ -14,6 +14,14 @@ permalink: /research/
 </small>
 </details>
 
+[Organizing Expertise with Externalities: Evidence from Primary Care](http://shanhuang-ec.github.io/assets/files/organizing_expertise.pdf) <br/> 
+<small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/> 
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	Many modern organizations use knowledge hierarchies, where frontline workers try to resolve tasks and pass those they cannot resolve to experts. But the implications of this organization of expertise are not well understood, especially if firm revenues depend on who resolves each task or the firm generates downstream externalities. We study a knowledge hierarchy (KH) using 500,000 patient cases from an online primary care firm, linked to outcomes and costs across Sweden's healthcare system. We use variation in assignment arising from temporary doctor congestion, controlling for date-by-three-hour windows and flexible case characteristics. Within the KH, nurses resolve 70% of cases and pass the remainder to doctors. Relative to doctor-only care, the KH modestly increases external primary care and ED visits but has no adverse effects on hospitalizations, earnings losses, or mortality. Although the mean effect of KH on systemwide (firm plus downstream) production costs is small, this masks substantial heterogeneity. Compared to using only doctors, the savings from the firm's selective use of the KH equal 1.6% of online primary care costs. However, our main finding is that reassigning cases between the direct-to-doctor and KH routes within 15-minute windows to minimize systemwide production costs would save 6.8% of online primary care costs.
+</small>
+</details>
 
 [AI adoption by human experts: Evidence from primary care physicians](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf) <br/> 
 <small>*Revise & Resubmit at **The Economic Journal*** (with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
@@ -30,15 +38,6 @@ permalink: /research/
 <summary><small>Abstract</small></summary>
 <small>
  	Financial incentives can distort physicians' treatment decisions, fueling healthcare spending. Altruism, a core element of medical professionalism, may counteract these distortions. We link altruism elicited from a revealed preference experiment for 267 U.S. physicians to administrative data on industry transfers and prescribing. Non-altruistic physicians receive substantially higher payments (USD 1,775, or 111% more annually) and increase prescribing of promoted drugs after payment, whereas altruistic physicians do not. Divergence is largest in drug classes with high clinical substitutability. Our findings show that altruism moderates the influence of financial incentives in physician-industry ties, limiting the scope for agency problems in prescribing.
-</small>
-</details>
-
-[Organizing Expertise with Externalities: Evidence from Primary Care](http://shanhuang-ec.github.io/assets/files/organizing_expertise.pdf) <br/> 
-<small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/> 
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-	Many modern organizations use knowledge hierarchies, where frontline workers try to resolve tasks and pass those they cannot resolve to experts. But the implications of this organization of expertise are not well understood, especially if firm revenues depend on who resolves each task or the firm generates downstream externalities. We study a knowledge hierarchy (KH) using 500,000 patient cases from an online primary care firm, linked to outcomes and costs across Sweden's healthcare system. We use variation in assignment arising from temporary doctor congestion, controlling for date-by-three-hour windows and flexible case characteristics. Within the KH, nurses resolve 70% of cases and pass the remainder to doctors. Relative to doctor-only care, the KH modestly increases external primary care and ED visits but has no adverse effects on hospitalizations, earnings losses, or mortality. Although the mean effect of KH on systemwide (firm plus downstream) production costs is small, this masks substantial heterogeneity. Compared to using only doctors, the savings from the firm's selective use of the KH equal 1.6% of online primary care costs. However, our main finding is that reassigning cases between the direct-to-doctor and KH routes within 15-minute windows to minimize systemwide production costs would save 6.8% of online primary care costs.
 </small>
 </details>
 
