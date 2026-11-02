@@ -3,9 +3,8 @@ title: "Research"
 permalink: /research/
 ---
 
-
-### Working Papers
-***Job market paper:*** [The Price of Pace: Paying Experts by Volume](https://shanhuang-ec.github.io/assets/files/Price_of_Pace.pdf) <br/> 
+### Job market paper
+[The Price of Pace: Paying Experts by Volume](https://shanhuang-ec.github.io/assets/files/Price_of_Pace.pdf) <br/> 
 <small>(with [Amanda Dahlstrand])</small>
 <details>
 <summary><small>Abstract</small></summary>
@@ -14,6 +13,7 @@ permalink: /research/
 </small>
 </details>
 
+### Working Papers
 [Organizing Expertise with Externalities: Evidence from Primary Care](http://shanhuang-ec.github.io/assets/files/organizing_expertise.pdf) <br/> 
 <small>(with [Amanda Dahlstrand], [Guy Michaels], and Nestor Le Nestour)</small> <br/> 
 <details>
