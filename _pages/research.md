@@ -5,6 +5,16 @@ permalink: /research/
 
 
 ### Working Papers
+***Job market paper:*** [The Price of Pace: Paying Experts by Volume](https://shanhuang-ec.github.io/assets/files/Price_of_Pace.pdf) <br/> 
+<small>(with [Amanda Dahlstrand])</small>
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+	Quantity incentives can expand capacity when expert time is scarce, but multitasking theory predicts reduced effort in unmeasured parts of a task. We study individual physicians’ staggered switches from fixed hourly wages to quantity incentives within a large Swedish primary care organization. Because patients are assigned to whichever physician is available, we compare similar patients treated by the same physician before and after the switch. We link over 450,000 online consultations to patients' subsequent care across the healthcare system to measure externalities outside the organization. We separate time with the patient, captured well by the organization's internal quality measures, from administrative time, such as for record review, whose implications are captured less well. Quantity incentives shorten consultations from 11.7 to 9.3 minutes on average, primarily through administrative time savings, and raise consultations per physician by 26% without additional hours worked. Internal quality measures are unchanged, and most costly downstream care, including in-person primary care visits, does not increase within seven days; the exception is hospitalizations, rising from 3.8 to 4.9 per 1,000 consultations. Added costs for the public payer are modest and offset by the capacity expansion if extra consultations are valued at public-payer prices, unless additional hospitalizations imply large health losses beyond their monetary costs.
+</small>
+</details>
+
+
 [AI adoption by human experts: Evidence from primary care physicians](https://www.rfberlin.com/wp-content/uploads/2026/07/26199.pdf) <br/> 
 <small>*Revise & Resubmit at **The Economic Journal*** (with [Renke Schmacker] and [Hannes Ullrich])</small> <br/>  
 <details>
@@ -67,12 +77,8 @@ permalink: /research/
 
 
 ### Work in Progress
-The Price of Pace: Paying Experts by Volume  <br/>
-<small>(with [Amanda Dahlstrand])</small>
-
 Defragmenting Healthcare: Mental Health and the Organizational Boundaries of Primary Care   <br/>
 <small>**Funded by Region Stockholm & Royal Swedish Academy of Sciences*</small>
-
 
 
 [//]: # (The causal effect of antibiotic prescribing on population antibiotic resistance <br/>) 
